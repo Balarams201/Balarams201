@@ -1,4 +1,4 @@
-<!-- Banner Image (You can replace link with your own banner) -->
+<!-- Banner Image (You can replace this link with your own banner later) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ismail-lucifer/assets/main/data-engineering-banner.png" width="100%" />
 </p>
@@ -49,7 +49,7 @@ I believe in:
 ---
 
 ## 📂 **Featured Projects**
-> *(Add these repos later — I can generate full project structure + code for you if you want)*
+> *(Add these repos later — I can create full project structure + code if you want)*
 
 🔹 **Modern Data Pipeline (Spark + Databricks + AWS)**  
 🔹 **CDC Pipeline (DMS → S3 → Spark → Warehouse)**  
@@ -61,8 +61,8 @@ I believe in:
 
 ## 📈 **GitHub Stats**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Balarams201&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balarams201&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
