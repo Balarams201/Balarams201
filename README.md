@@ -1,6 +1,6 @@
 <!-- Banner Image (You can replace this link with your own banner later) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ismail-lucifer/assets/main/data-engineering-banner.png" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGeZn1DhLC8sw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736334617010?e=1765411200&v=beta&t=52eEH_VDBpYdCn9up_IjbdsTZsHUFCfhyM555hWIg-M" width="100%" />
 </p>
 
 # 🌐 Hi, I'm **Balaram** 👋  
