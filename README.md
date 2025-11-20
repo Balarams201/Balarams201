@@ -48,16 +48,6 @@ I believe in:
 
 ---
 
-## 📂 **Featured Projects**
-> *(Add these repos later — I can create full project structure + code if you want)*
-
-🔹 **Modern Data Pipeline (Spark + Databricks + AWS)**  
-🔹 **CDC Pipeline (DMS → S3 → Spark → Warehouse)**  
-🔹 **Databricks Delta Lake End-to-End Project**  
-🔹 **AWS Glue ETL Framework**  
-🔹 **Data Quality using Great Expectations**
-
----
 
 ## 📈 **GitHub Stats**
 <p align="center">
